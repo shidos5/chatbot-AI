@@ -1,16 +1,37 @@
-# shidos_gbt
+# 🤖 Chatbot AI Flutter App
 
-A new Flutter project.
+This is a modern AI-powered chatbot application built using **Flutter**. The app allows users to interact with an AI assistant in real-time, providing a sleek and user-friendly experience similar to ChatGPT.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧠 AI-based chat response system
+- 💬 Real-time message rendering
+- 🌙 Dark mode support
+- 📱 Responsive UI for Android & iOS
+- 🔒 Firebase Authentication (optional)
+- 🗑️ Message delete/edit features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (Frontend)
+- **Dart** (Programming Language)
+- **Firebase** (Optional - Auth/Storage)
+- **GOOGLE API** or any custom AI backend
+
+---
+
+## 🧰 Installation
+
+```bash
+git clone https://github.com/shidos5/chatbot-AI.git
+cd chatbot-AI
+flutter pub get
+flutter run
